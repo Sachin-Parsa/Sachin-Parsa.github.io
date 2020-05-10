@@ -2100,7 +2100,14 @@ input, select, textarea {
 					border-right: solid 0.75em transparent;
 					border-top: solid 0.6em #282828;
 				}
+/* Activities */
 
+.none{
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+	text-align: center;
+}
 /* Articles */
 
 	body > article {
